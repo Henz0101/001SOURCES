@@ -1,4 +1,4 @@
-# 001SOURCES
+SOURCES
 A COLLECTION OF RESEARCH SOURCES AND REFERENCES.
 
 ## Here are the links, references, and sources I used for my research.
